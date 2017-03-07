@@ -1,0 +1,7 @@
+<templateSet group="java">
+  <template name="ps" value="private String $END$" description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

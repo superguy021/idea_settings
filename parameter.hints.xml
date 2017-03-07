@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.apache.commons.lang.StringUtils.replace(text,searchString,replacement)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

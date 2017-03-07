@@ -1,0 +1,6 @@
+<code_scheme name="Default (1)">
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
+  </codeStyleSettings>
+</code_scheme>
