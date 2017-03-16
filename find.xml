@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'domain'" />
-    <option name="defaultScopeName" value="Module 'domain'" />
-    <option name="SEARCH_SCOPE" value="Module 'domain'" />
+    <option name="customScope" value="Directory '[server] - ...'" />
+    <option name="defaultScopeName" value="Directory '[server] - ...'" />
+    <option name="SEARCH_SCOPE" value="Directory '[server] - ...'" />
   </component>
 </application>
