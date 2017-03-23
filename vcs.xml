@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/nviennot/jd-core-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://superguy021@gitlab.com/superguy021/server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\work\" />
