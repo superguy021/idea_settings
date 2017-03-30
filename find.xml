@@ -3,7 +3,6 @@
     <option name="customScope" value="Directory '[common] - ...\common\src\test\java\com\dmm\game\ttigd'" />
     <option name="defaultScopeName" value="Directory '[common] - ...\common\src\test\java\com\dmm\game\ttigd'" />
     <option name="SEARCH_SCOPE" value="Directory '[common] - ...\common\src\test\java\com\dmm\game\ttigd'" />
-    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
