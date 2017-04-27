@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\charge\ChargeManager.java'" />
-    <option name="defaultScopeName" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\charge\ChargeManager.java'" />
-    <option name="SEARCH_SCOPE" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\charge\ChargeManager.java'" />
+    <option name="customScope" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\charge\ChargeValidateTaskQueue.java'" />
+    <option name="defaultScopeName" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\charge\ChargeValidateTaskQueue.java'" />
+    <option name="SEARCH_SCOPE" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\charge\ChargeValidateTaskQueue.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
