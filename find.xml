@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[acceptance] - ...\acceptance\src\test\java\com\dmm\game\ttidg\testsuite\game\cases\RoomManagerTest.java'" />
     <option name="defaultScopeName" value="File '[acceptance] - ...\acceptance\src\test\java\com\dmm\game\ttidg\testsuite\game\cases\RoomManagerTest.java'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[acceptance] - ...\acceptance\src\test\java\com\dmm\game\ttidg\testsuite\game\cases\RoomManagerTest.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
