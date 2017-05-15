@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[acceptance] - ...\acceptance\src\test\java\com\dmm\game\ttidg\testsuite\game\cases\RoomManagerTest.java'" />
-    <option name="defaultScopeName" value="File '[acceptance] - ...\acceptance\src\test\java\com\dmm\game\ttidg\testsuite\game\cases\RoomManagerTest.java'" />
-    <option name="SEARCH_SCOPE" value="File '[acceptance] - ...\acceptance\src\test\java\com\dmm\game\ttidg\testsuite\game\cases\RoomManagerTest.java'" />
+    <option name="customScope" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\logic\JianMengLogic.java'" />
+    <option name="defaultScopeName" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\logic\JianMengLogic.java'" />
+    <option name="SEARCH_SCOPE" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\logic\JianMengLogic.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
