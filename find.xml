@@ -1,16 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="customScope" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\player\PlayerManager.java'" />
+    <option name="defaultScopeName" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\player\PlayerManager.java'" />
+    <option name="SEARCH_SCOPE" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\player\PlayerManager.java'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -18,10 +15,16 @@
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.hja</mask>
+      <mask>*.hj</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
