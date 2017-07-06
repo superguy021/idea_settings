@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[domain] - ...\domain\src\main\java\com\dmm\game\ttigd\user\UserOps.java'" />
-    <option name="defaultScopeName" value="File '[domain] - ...\domain\src\main\java\com\dmm\game\ttigd\user\UserOps.java'" />
-    <option name="SEARCH_SCOPE" value="File '[domain] - ...\domain\src\main\java\com\dmm\game\ttigd\user\UserOps.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
