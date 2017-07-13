@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[domain] - ...\domain\src\main\java\com\dmm\game\ttigd\config\op\ChargePkgOps.java'" />
-    <option name="defaultScopeName" value="File '[domain] - ...\domain\src\main\java\com\dmm\game\ttigd\config\op\ChargePkgOps.java'" />
-    <option name="SEARCH_SCOPE" value="File '[domain] - ...\domain\src\main\java\com\dmm\game\ttigd\config\op\ChargePkgOps.java'" />
+    <option name="customScope" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\player\Player.java'" />
+    <option name="defaultScopeName" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\player\Player.java'" />
+    <option name="SEARCH_SCOPE" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\player\Player.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>

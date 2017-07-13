@@ -1,6 +1,13 @@
 <profile version="1.0">
   <option name="myName" value="grater" />
   <inspection_tool class="AssignmentToNull" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DoubleCheckedLocking" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreOnVolatileVariables" value="false" />
+  </inspection_tool>
+  <inspection_tool class="FieldAccessedSynchronizedAndUnsynchronized" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="countGettersAndSetters" value="false" />
+  </inspection_tool>
+  <inspection_tool class="NonAtomicOperationOnVolatileField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReturnNull" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_reportObjectMethods" value="true" />
     <option name="m_reportArrayMethods" value="true" />
@@ -8,4 +15,6 @@
     <option name="m_ignorePrivateMethods" value="false" />
   </inspection_tool>
   <inspection_tool class="VariableNotUsedInsideIf" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="VolatileArrayField" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="VolatileLongOrDoubleField" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
