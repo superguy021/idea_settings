@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\room\RoomAdapter.java'" />
-    <option name="defaultScopeName" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\room\RoomAdapter.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[game] - ...\game\src\main\java\com\dmm\game\ttigd\room\RoomAdapter.java'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
