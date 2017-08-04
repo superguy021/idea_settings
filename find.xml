@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '[spy-game-cachedb] - ...\spy-game-cachedb\src\main\java\org\spy\game\cachedb\imp'" />
+    <option name="defaultScopeName" value="Directory '[spy-game-cachedb] - ...\spy-game-cachedb\src\main\java\org\spy\game\cachedb\imp'" />
+    <option name="SEARCH_SCOPE" value="Directory '[spy-game-cachedb] - ...\spy-game-cachedb\src\main\java\org\spy\game\cachedb\imp'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
