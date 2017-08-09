@@ -66,6 +66,10 @@
           <option name="url" value="http://superguy022.vicp.io:8888/study/akka.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://superguy022.vicp.io:8888/study/jmx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\work\spy" />
