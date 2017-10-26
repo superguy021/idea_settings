@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="Directory '[guandan-hserver] - ...\guandan-hserver\src\main\java\com\morln\game\gd\race'" />
+    <option name="defaultScopeName" value="Directory '[guandan-hserver] - ...\guandan-hserver\src\main\java\com\morln\game\gd\race'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Directory '[guandan-hserver] - ...\guandan-hserver\src\main\java\com\morln\game\gd\race'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
