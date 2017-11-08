@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '[guandan-hserver] - ...\guandan-hserver'" />
+    <option name="defaultScopeName" value="Directory '[guandan-hserver] - ...\guandan-hserver'" />
+    <option name="SEARCH_SCOPE" value="Directory '[guandan-hserver] - ...\guandan-hserver'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
