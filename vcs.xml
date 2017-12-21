@@ -122,8 +122,12 @@
           <option name="url" value="http://117.89.102.165:8888/spy/spy-clazz.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tang-jie/NettyRPC.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\iguandan_clone2" />
+    <option name="cloneParentDir" value="D:\dev\" />
   </component>
 </application>
