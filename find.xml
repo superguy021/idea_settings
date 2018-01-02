@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[guandan-common] - ...\guandan-common\src\main\java\com\morln\game\gd\service\LogService.java'" />
+    <option name="defaultScopeName" value="File '[guandan-common] - ...\guandan-common\src\main\java\com\morln\game\gd\service\LogService.java'" />
+    <option name="SEARCH_SCOPE" value="File '[guandan-common] - ...\guandan-common\src\main\java\com\morln\game\gd\service\LogService.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
