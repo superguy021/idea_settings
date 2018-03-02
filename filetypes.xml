@@ -4,6 +4,7 @@
       <mapping ext="fbs" type="Flatbuffers file" />
       <mapping pattern="decompile" type="PLAIN_TEXT" />
       <mapping pattern="insert性能测试" type="PLAIN_TEXT" />
+      <mapping pattern="mongdb升级" type="PLAIN_TEXT" />
       <mapping ext="confg" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
