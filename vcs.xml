@@ -134,8 +134,12 @@
           <option name="url" value="http://code.dmmgame.com/iguandan/web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.dmmgame.com:iguandan/wegame-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\" />
+    <option name="cloneParentDir" value="D:\dev" />
   </component>
 </application>
