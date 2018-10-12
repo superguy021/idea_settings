@@ -158,6 +158,10 @@
           <option name="url" value="https://github.com/pf4j/pf4j.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.dmmgame.com/iguandan/app-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\diea_work" />
