@@ -1,0 +1,14 @@
+<application>
+  <component name="Osmorc">
+    <option name="frameworkInstanceDefinitions">
+      <list>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="D:\felix-framework-6.0.1" />
+          <option name="frameworkIntegratorName" value="Felix" />
+          <option name="name" value="Felix (6.0.1)" />
+          <option name="version" value="6.0.1" />
+        </FrameworkInstanceDefinition>
+      </list>
+    </option>
+  </component>
+</application>
