@@ -18,8 +18,12 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="org.mariadb.jdbc.Driver" name="org.mariadb.jdbc.Driver" driver-class="org.mariadb.jdbc.Driver">
+      <artifact name="MySQL Connector/J" version="5.1.40" />
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/2.4.1/mariadb-java-client-2.4.1.jar</url>
+      </library>
     </driver>
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
