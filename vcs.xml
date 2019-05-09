@@ -166,6 +166,10 @@
           <option name="url" value="https://github.com/pf4j/pf4j-update.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.dmmgame.com/iguandan/ttigd-server-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\diea_work" />
