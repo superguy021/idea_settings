@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="radio" type="FTL" />
       <mapping ext="fbs" type="Flatbuffers file" />
       <mapping ext="xmind" type="Native" />
       <mapping pattern="123" type="PLAIN_TEXT" />
